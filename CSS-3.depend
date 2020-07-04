@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544591654 source:c:\css-2b\css-3\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<sstream>
+

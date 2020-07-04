@@ -1,0 +1,5 @@
+erase
+makeArr 3 donnie
+in donnie
+find 7 donnie
+stop

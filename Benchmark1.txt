@@ -1,0 +1,17 @@
+erase
+move 0 ralphie
+move 0 leo
+move 0 mikey
+move 0 donnie
+in mikey
+in leo
+add leo donnie donnie
+decrement mikey
+skipif mikey equal ralphie
+goto 7
+add ralphie donnie ralphie
+screen ralphie
+stop
+
+
+
